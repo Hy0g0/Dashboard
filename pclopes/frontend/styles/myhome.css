@@ -1,0 +1,8 @@
+.Widget{
+    background-color: teal;
+    width: 20%;
+    height: 300px;
+    margin: 20px;
+    border-radius: 10px;
+    flex: 1 1 20%;
+}
